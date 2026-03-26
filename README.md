@@ -2,6 +2,8 @@
 
 > **Joke Links** &rarr; **Loke Jinks**. The J and L are swapped. That's the joke.
 
+**[lokejinks.tewodros.me](https://lokejinks.tewodros.me)**
+
 A website for creating joke URLs. You craft a URL that looks legit, attach a punchline, and share the link. When someone opens it, the punchline hits them immediately &mdash; big text, dark screen, nothing else.
 
 No accounts. No sign-ups. Just shareable joke links backed by a key-value store.
